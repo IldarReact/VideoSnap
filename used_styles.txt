@@ -1,0 +1,29 @@
+./src/App.tsx:              <Box sx={{ p: 4 }}>
+./src/App.tsx:                <Skeleton variant="rectangular" height={400} sx={{ mb: 2 }} />
+./src/App.tsx:                  sx={{ mb: 1 }}
+./src/App.tsx:              <Box sx={{ p: 4 }}>
+./src/App.tsx:                  sx={{ mb: 2, mx: "auto" }}
+./src/features/ContactForm/components/FormSkeleton.tsx:    <Skeleton variant="text" height={40} width="40%" sx={{ mx: "auto" }} />
+./src/features/ContactForm/components/SuccessMessage.tsx:    <Typography variant="h4" gutterBottom sx={{ textAlign: "center" }}>
+./src/features/ContactForm/ContactForm.tsx:      <Container maxWidth="lg" sx={{ flexGrow: 1, py: 8 }}>
+./src/features/GridContent/GridContent.tsx:        sx={{ textAlign: "center", mb: { xs: 2, md: 3 } }}
+./src/features/GridContent/GridContent.tsx:        sx={{ mt: { xs: 3, md: 4 }, px: { xs: 2, md: 0 } }}
+./src/features/GridContent/GridContent.tsx:          sx={{ maxWidth: isMobile ? "none" : "200px" }}
+./src/features/GridContent/GridContentItem.tsx:    <Typography variant="h2" gutterBottom sx={{ textAlign: "left" }}>
+./src/features/GridContent/GridContentItem.tsx:    <Typography variant="body1" sx={{ textAlign: "left" }}>
+./src/features/Layout/ContactSection.tsx:        sx={{
+./src/features/Layout/ContactSection.tsx:        <Typography variant="h2" sx={{ textAlign: "center" }}>
+./src/features/Layout/ContactSection.tsx:          sx={{ mt: 2, maxWidth: isMobile ? "none" : "200px" }}
+./src/features/Layout/ContactSection.tsx:        sx={{ textAlign: "center", py: { xs: 2, md: 3 }, mt: { xs: 3, md: 4 } }}
+./src/features/Layout/ContactSection.tsx:        <Typography variant="body2" sx={{ textAlign: "center" }}>
+./src/features/Layout/Footer.tsx:        sx={{
+./src/features/Layout/Footer.tsx:        <Typography variant="body2" sx={{ textAlign: "center" }}>
+./src/features/Layout/Header.tsx:          sx={{
+./src/features/Layout/Header.tsx:        <Box sx={{ flexGrow: 1 }} />
+./src/features/Layout/Header.tsx:            sx={{
+./src/features/TitleAndVideo/TitleAndVideo.tsx:      sx={{
+./src/features/TitleAndVideo/TitleAndVideo.tsx:        sx={{ maxWidth: { xs: "100%", md: "400px" }, px: { xs: 2, md: 0 } }}
+./src/features/TitleAndVideo/TitleAndVideo.tsx:        sx={{ width: "100%", maxWidth: { xs: "100%", md: "560px" } }}
+./src/features/VideoPlayer/VideoThumbnail.tsx:      sx={{ display: isThumbnailLoaded ? "block" : "none" }}
+./src/features/VideoPlayer/YouTubeVideo.tsx:        <Typography variant="h2" sx={{ mt: 2 }} component="h2">
+./src/pages/HomePage/HomePage.tsx:      <Container maxWidth="lg" sx={{ py: 6 }}>
